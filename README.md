@@ -1,2 +1,0 @@
-# PY
-Python Assignments
